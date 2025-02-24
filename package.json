@@ -1,0 +1,15 @@
+{
+  "name": "github-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Irena Saja",
+  "license": "ISC",
+  "description": "learning WEB322",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
